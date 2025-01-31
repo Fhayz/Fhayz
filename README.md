@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fhayz
-- 👀 I’m interested in frontend and product design
+- 👀 I’m interested in frontend and product design... Leveling up backend development 
 - 💞️ I’m looking to collaborate on anything relating to coding and programming
 - 📫 How to reach me :WhatsApp 08118572549
 
